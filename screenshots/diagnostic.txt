@@ -1,0 +1,19 @@
+2023-10-18 15:00:48.302 10804-10804 ActivitySpy             edu.uw.ischool.lwong121.activityspy  I  onCreate event fired. savedInstanceState parameter: null
+2023-10-18 15:00:48.649 10804-10804 ActivitySpy             edu.uw.ischool.lwong121.activityspy  I  onStart event fired
+2023-10-18 15:00:48.650 10804-10804 ActivitySpy             edu.uw.ischool.lwong121.activityspy  I  onResume event fired
+2023-10-18 15:01:07.239 10804-10804 ActivitySpy             edu.uw.ischool.lwong121.activityspy  I  onPause event fired
+2023-10-18 15:01:08.504 10804-10804 ActivitySpy             edu.uw.ischool.lwong121.activityspy  I  onStop event fired
+2023-10-18 15:01:08.511 10804-10804 ActivitySpy             edu.uw.ischool.lwong121.activityspy  I  onDestroy event fired
+2023-10-18 15:01:08.511 10804-10804 ActivitySpy             edu.uw.ischool.lwong121.activityspy  E  We're going down, Captain!
+---------------------------- PROCESS ENDED (10804) for package edu.uw.ischool.lwong121.activityspy ----------------------------
+---------------------------- PROCESS STARTED (10863) for package edu.uw.ischool.lwong121.activityspy ----------------------------
+2023-10-18 15:01:19.545 10863-10863 ActivitySpy             edu.uw.ischool.lwong121.activityspy  I  onCreate event fired. savedInstanceState parameter: null
+2023-10-18 15:01:19.921 10863-10863 ActivitySpy             edu.uw.ischool.lwong121.activityspy  I  onStart event fired
+2023-10-18 15:01:19.922 10863-10863 ActivitySpy             edu.uw.ischool.lwong121.activityspy  I  onResume event fired
+2023-10-18 15:01:24.920 10863-10863 ActivitySpy             edu.uw.ischool.lwong121.activityspy  I  onPause event fired
+2023-10-18 15:01:24.981 10863-10863 ActivitySpy             edu.uw.ischool.lwong121.activityspy  I  onStop event fired
+---------------------------- PROCESS ENDED (10863) for package edu.uw.ischool.lwong121.activityspy ----------------------------
+---------------------------- PROCESS STARTED (10904) for package edu.uw.ischool.lwong121.activityspy ----------------------------
+2023-10-18 15:01:43.279 10904-10904 ActivitySpy             edu.uw.ischool.lwong121.activityspy  I  onCreate event fired. savedInstanceState parameter: null
+2023-10-18 15:01:43.633 10904-10904 ActivitySpy             edu.uw.ischool.lwong121.activityspy  I  onStart event fired
+2023-10-18 15:01:43.635 10904-10904 ActivitySpy             edu.uw.ischool.lwong121.activityspy  I  onResume event fired

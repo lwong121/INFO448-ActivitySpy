@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity Spy</string>
+    <string name="greeting">Greetings, UW!</string>
+    <!--  Extra Credit  -->
+    <string name="quote">"Whoa"</string>
+    <string name="quote_movie">--Neo, The Matrix</string>
+</resources>
